@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Utkarsh Pophli</h1>
 <h3 align="center">A passionate student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6139167-Avento-marketing?utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share">
+<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/6139167-Avento-marketing utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshpophli&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshpophli" /> </p>
 
