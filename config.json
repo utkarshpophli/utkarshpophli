@@ -68,8 +68,8 @@
   "experience": [
     { "org": "Fractal Analytics", "when": "Now", "role": "Data Scientist, AI and Cognitive Sciences, Pune",
       "detail": "Enterprise GenAI, multi-agent orchestration, voice AI agents, Temporal + LangGraph workflows" },
+    { "org": "Ethara AI" },
     { "org": "Siemens R&D", "role": "Goa" },
-    { "org": "Green Rider Technology" },
     { "org": "MITS Gwalior", "when": "2024", "role": "B.Tech, Internet of Things" }
   ],
   "footer": "Open to collaborating on agentic AI and open-source LLM tooling."
