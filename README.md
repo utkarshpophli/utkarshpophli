@@ -20,13 +20,13 @@
 
 <p align="center">
   <a href="https://github.com/utkarshpophli/GLOW"><img src="assets/project-1.svg" width="49%" alt="GLOW: Vision-first Windows agent that sees the screen, plans and acts across 92 tools from one prompt. Planner, executor and verifier agents."></a>
-  <a href="https://huggingface.co/spaces/utkarshpophli/virtual-try-on-outfit-change"><img src="assets/project-2.svg" width="49%" alt="Virtual Try-On: Upload a photo and a garment, get a realistic try-on image through body and clothes segmentation plus inpainting."></a>
+  <a href="https://github.com/utkarshpophli/PaperTrail"><img src="assets/project-2.svg" width="49%" alt="PaperTrail: Evidence-linked research paper studio. LangGraph agents help you draft papers with every claim tied back to its source."></a>
 </p>
 <p align="center">
-  <a href="https://github.com/utkarshpophli/gemma-finetuning-keras-lora"><img src="assets/project-3.svg" width="49%" alt="Gemma + LoRA: Parameter-efficient fine-tuning of Google&#x27;s Gemma with LoRA in Keras, served through a Streamlit chat app."></a>
-  <a href="https://ml-algorithms-from-scratch-lnvbwmqcoy5ds2vzmrbf7w.streamlit.app/"><img src="assets/project-4.svg" width="49%" alt="ML from Scratch: 14 classic ML algorithms in pure NumPy, from linear regression to DBSCAN, with interactive 3D visualisations."></a>
+  <a href="https://huggingface.co/spaces/utkarshpophli/virtual-try-on-outfit-change"><img src="assets/project-3.svg" width="49%" alt="Virtual Try-On: Upload a photo and a garment, get a realistic try-on image through body and clothes segmentation plus inpainting."></a>
+  <a href="https://github.com/utkarshpophli/gemma-finetuning-keras-lora"><img src="assets/project-4.svg" width="49%" alt="Gemma + LoRA: Parameter-efficient fine-tuning of Google&#x27;s Gemma with LoRA in Keras, served through a Streamlit chat app."></a>
 </p>
-<p align="center"><sub>Source code: <a href="https://github.com/utkarshpophli/virtual-try-on-outfit-change">Virtual Try-On</a> · <a href="https://github.com/utkarshpophli/ml-algorithms-from-scratch">ML from Scratch</a></sub></p>
+<p align="center"><sub>Source code: <a href="https://github.com/utkarshpophli/virtual-try-on-outfit-change">Virtual Try-On</a></sub></p>
 
 ## Recently shipped
 
