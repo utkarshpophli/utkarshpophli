@@ -1,0 +1,79 @@
+{
+  "username": "utkarshpophli",
+  "name": "Utkarsh Pophli",
+  "pitch": [
+    "I build multi-agent systems and LLM pipelines that run",
+    "in enterprise production at Fractal Analytics, Pune."
+  ],
+  "rotating_roles": [
+    "Data Scientist at Fractal",
+    "Building multi-agent systems",
+    "Shipping GenAI to production"
+  ],
+  "focus_tags": ["LangGraph", "Multi-agent systems", "LLMOps", "Vision agents"],
+  "certifications": [
+    { "title": ["Claude Certified", "Architect"], "issuer": "Anthropic, scored 875/1000" },
+    { "title": ["LLMOps Associate"], "issuer": "Fractal Analytics" }
+  ],
+  "links": {
+    "LinkedIn": { "url": "https://linkedin.com/in/utkarshpophli", "logo": "linkedin" },
+    "Email": { "url": "mailto:pophliutkarsh8@gmail.com", "logo": "gmail" },
+    "Hugging Face": { "url": "https://huggingface.co/utkarshpophli", "logo": "huggingface" },
+    "Kaggle": { "url": "https://kaggle.com/utkarshpophli", "logo": "kaggle" }
+  },
+  "about": [
+    ["Working on", "GenAI and agentic AI solutions as a Data Scientist at Fractal"],
+    ["Collaborate", "Open-source AI agents and LLM projects"],
+    ["Help wanted", "Growing GLOW, my vision-based Windows agent"],
+    ["Learning", "Advanced LLM evaluation and fine-tuning"],
+    ["Ask me about", "LangGraph, multi-agent systems, LLMOps"],
+    ["Fun fact", "GLOW started as a weekend experiment"]
+  ],
+  "featured": [
+    {
+      "repo": "GLOW",
+      "title": "GLOW",
+      "label": "Agentic AI",
+      "description": "Vision-first Windows agent that sees the screen, plans and acts across 92 tools from one prompt. Planner, executor and verifier agents.",
+      "stack": ["Python", "Gemini Vision", "Groq", "PyQt6"]
+    },
+    {
+      "repo": "virtual-try-on-outfit-change",
+      "title": "Virtual Try-On",
+      "label": "Generative vision",
+      "description": "Upload a photo and a garment, get a realistic try-on image through body and clothes segmentation plus inpainting.",
+      "stack": ["Python", "Inpainting", "Streamlit", "HF Spaces"],
+      "demo": "https://huggingface.co/spaces/utkarshpophli/virtual-try-on-outfit-change"
+    },
+    {
+      "repo": "gemma-finetuning-keras-lora",
+      "title": "Gemma + LoRA",
+      "label": "LLM fine-tuning",
+      "description": "Parameter-efficient fine-tuning of Google's Gemma with LoRA in Keras, served through a Streamlit chat app.",
+      "stack": ["Keras", "LoRA", "Gemma", "Streamlit"]
+    },
+    {
+      "repo": "ml-algorithms-from-scratch",
+      "title": "ML from Scratch",
+      "label": "ML fundamentals",
+      "description": "14 classic ML algorithms in pure NumPy, from linear regression to DBSCAN, with interactive 3D visualisations.",
+      "stack": ["NumPy", "Plotly", "Streamlit"],
+      "demo": "https://ml-algorithms-from-scratch-lnvbwmqcoy5ds2vzmrbf7w.streamlit.app/"
+    }
+  ],
+  "min_stars_to_show": 1,
+  "recent_count": 4,
+  "stack": [
+    ["GenAI and agents", ["LangGraph", "LangChain", "Claude", "OpenAI", "Gemini", "Ollama", "Hugging Face", "LoRA / QLoRA"]],
+    ["ML and data", ["Python", "PyTorch", "TensorFlow", "scikit-learn", "Pandas", "NumPy", "OpenCV"]],
+    ["Backend and ops", ["FastAPI", "Temporal", "Google Cloud", "Streamlit", "Git", "Linux", "MySQL"]]
+  ],
+  "experience": [
+    { "org": "Fractal Analytics", "when": "Now", "role": "Data Scientist, AI and Cognitive Sciences, Pune",
+      "detail": "Enterprise GenAI, multi-agent orchestration, voice AI agents, Temporal + LangGraph workflows" },
+    { "org": "Siemens R&D", "role": "Goa" },
+    { "org": "Green Rider Technology" },
+    { "org": "MITS Gwalior", "when": "2024", "role": "B.Tech, Internet of Things" }
+  ],
+  "footer": "Open to collaborating on agentic AI and open-source LLM tooling."
+}

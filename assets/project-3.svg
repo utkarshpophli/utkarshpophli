@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="256" viewBox="0 0 400 256" role="img" aria-label="Gemma + LoRA: Parameter-efficient fine-tuning of Google&#x27;s Gemma with LoRA in Keras, served through a Streamlit chat app."><title>Gemma + LoRA: Parameter-efficient fine-tuning of Google&#x27;s Gemma with LoRA in Keras, served through a Streamlit chat app.</title>
+<defs>
+  <linearGradient id="bgc2" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0a1214"/><stop offset="1" stop-color="#0d2424"/>
+  </linearGradient>
+  <radialGradient id="gac2" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.30"/>
+    <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="gbc2" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#0f766e" stop-opacity="0.28"/>
+    <stop offset="1" stop-color="#0f766e" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="swc2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#5eead4" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#5eead4" stop-opacity="1"/>
+    <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="cpc2"><rect width="100%" height="100%" rx="16"/></clipPath>
+</defs>
+<style>
+  .f{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  .in{animation:in .9s cubic-bezier(.16,1,.3,1) both}
+  .d1{animation-delay:.08s}.d2{animation-delay:.16s}.d3{animation-delay:.24s}
+  .d4{animation-delay:.32s}.d5{animation-delay:.40s}.d6{animation-delay:.48s}
+  .d7{animation-delay:.56s}.d8{animation-delay:.64s}
+  @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .drift{animation:drift 16s ease-in-out infinite alternate}
+  @keyframes drift{from{transform:translate(0,0)}to{transform:translate(-120px,40px)}}
+  .sweep{animation:sweep 7s linear infinite}
+  @keyframes sweep{from{stroke-dashoffset:100}to{stroke-dashoffset:0}}
+  .role{opacity:0;animation:role 9s ease-in-out infinite both}
+  .r1{opacity:1}.r2{animation-delay:3s}.r3{animation-delay:6s}
+  @keyframes role{0%{opacity:0;transform:translateY(10px)}5%{opacity:1;transform:none}
+    30%{opacity:1;transform:none}35%{opacity:0;transform:translateY(-10px)}100%{opacity:0}}
+  .pulse{animation:pulse 2.4s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.15}50%{opacity:.35}}
+  @media (prefers-reduced-motion:reduce){
+    .in,.drift,.role,.pulse{animation:none}.sweep{display:none}
+  }
+</style><g clip-path="url(#cpc2)"><rect width="400" height="256" fill="url(#bgc2)"/><g class="drift"><ellipse cx="340.0" cy="0" rx="220.00000000000003" ry="230.4" fill="url(#gac2)"/></g><ellipse cx="0" cy="256" rx="200.0" ry="204.8" fill="url(#gbc2)"/></g><rect x="0.5" y="0.5" width="399" height="255" rx="16" fill="none" stroke="#2dd4bf" stroke-opacity="0.28"/>
+<g class="in">
+  <text x="28" y="42" class="f" font-size="11" font-weight="600" fill="#5eead4" text-anchor="start" letter-spacing="1.4">LLM FINE-TUNING</text>
+  <text x="372" y="45" class="f" font-size="18" font-weight="400" fill="#5eead4" text-anchor="end">↗</text>
+  <text x="28" y="74" class="f" font-size="23" font-weight="700" fill="#f0f7f6" text-anchor="start">Gemma + LoRA</text>
+</g>
+<g class="in d1"><text x="28" y="104" class="f" font-size="14" font-weight="400" fill="#a3bbb9" text-anchor="start">Parameter-efficient fine-tuning of Google&#x27;s Gemma</text><text x="28" y="125" class="f" font-size="14" font-weight="400" fill="#a3bbb9" text-anchor="start">with LoRA in Keras, served through a Streamlit</text><text x="28" y="146" class="f" font-size="14" font-weight="400" fill="#a3bbb9" text-anchor="start">chat app.</text></g>
+<g class="in d2"><rect x="28" y="166" width="56" height="26" rx="13" fill="#ffffff" fill-opacity="0.05" stroke="#2dd4bf" stroke-opacity="0.30"/><text x="56.0" y="183" text-anchor="middle" font-size="11" fill="#cfe7e4" class="f">Keras</text><rect x="92" y="166" width="50" height="26" rx="13" fill="#ffffff" fill-opacity="0.05" stroke="#2dd4bf" stroke-opacity="0.30"/><text x="117.0" y="183" text-anchor="middle" font-size="11" fill="#cfe7e4" class="f">LoRA</text><rect x="150" y="166" width="56" height="26" rx="13" fill="#ffffff" fill-opacity="0.05" stroke="#2dd4bf" stroke-opacity="0.30"/><text x="178.0" y="183" text-anchor="middle" font-size="11" fill="#cfe7e4" class="f">Gemma</text><rect x="214" y="166" width="81" height="26" rx="13" fill="#ffffff" fill-opacity="0.05" stroke="#2dd4bf" stroke-opacity="0.30"/><text x="254.5" y="183" text-anchor="middle" font-size="11" fill="#cfe7e4" class="f">Streamlit</text></g>
+<line x1="28" y1="206" x2="372" y2="206" stroke="#2dd4bf" stroke-opacity="0.14"/>
+<g class="in d3"><circle cx="33" cy="226" r="5" fill="#DA5B0B"/><text x="44" y="230" class="f" font-size="12" font-weight="400" fill="#8fa8a6" text-anchor="start">Jupyter Notebook</text><text x="169.52" y="230" class="f" font-size="12" font-weight="600" fill="#5eead4" text-anchor="start">★ 1</text><text x="372" y="230" class="f" font-size="12" font-weight="400" fill="#8fa8a6" text-anchor="end">Updated 1 year ago</text></g></svg>

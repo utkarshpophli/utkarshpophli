@@ -1,0 +1,14 @@
+[
+  {"name": "GLOW", "html_url": "https://github.com/utkarshpophli/GLOW", "fork": false, "archived": false, "private": false,
+   "language": "Python", "stargazers_count": 2, "pushed_at": "2026-09-20T10:00:00Z",
+   "description": "Vision-first Windows automation agent"},
+  {"name": "gemma-finetuning-keras-lora", "html_url": "https://github.com/utkarshpophli/gemma-finetuning-keras-lora", "fork": false, "archived": false, "private": false,
+   "language": "Jupyter Notebook", "stargazers_count": 1, "pushed_at": "2025-03-02T10:00:00Z",
+   "description": "Fine-tuning Gemma with LoRA in Keras"},
+  {"name": "ml-algorithms-from-scratch", "html_url": "https://github.com/utkarshpophli/ml-algorithms-from-scratch", "fork": false, "archived": false, "private": false,
+   "language": "Python", "stargazers_count": 0, "pushed_at": "2024-11-12T10:00:00Z",
+   "description": "ML algorithms implemented from scratch with 3D visualisations"},
+  {"name": "virtual-try-on-outfit-change", "html_url": "https://github.com/utkarshpophli/virtual-try-on-outfit-change", "fork": false, "archived": false, "private": false,
+   "language": "Python", "stargazers_count": 0, "pushed_at": "2024-08-05T10:00:00Z",
+   "description": "Virtual try-on with segmentation and inpainting"}
+]
