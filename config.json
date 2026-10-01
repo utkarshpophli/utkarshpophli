@@ -29,13 +29,20 @@
     ["Ask me about", "LangGraph, multi-agent systems, LLMOps"],
     ["Fun fact", "GLOW started as a weekend experiment"]
   ],
-  "featured": [
+    "featured": [
     {
       "repo": "GLOW",
       "title": "GLOW",
       "label": "Agentic AI",
       "description": "Vision-first Windows agent that sees the screen, plans and acts across 92 tools from one prompt. Planner, executor and verifier agents.",
       "stack": ["Python", "Gemini Vision", "Groq", "PyQt6"]
+    },
+    {
+      "repo": "PaperTrail",
+      "title": "PaperTrail",
+      "label": "Research tooling",
+      "description": "Evidence-linked research paper studio. LangGraph agents help you draft papers with every claim tied back to its source.",
+      "stack": ["LangGraph", "FastAPI", "Next.js"]
     },
     {
       "repo": "virtual-try-on-outfit-change",
@@ -51,14 +58,6 @@
       "label": "LLM fine-tuning",
       "description": "Parameter-efficient fine-tuning of Google's Gemma with LoRA in Keras, served through a Streamlit chat app.",
       "stack": ["Keras", "LoRA", "Gemma", "Streamlit"]
-    },
-    {
-      "repo": "ml-algorithms-from-scratch",
-      "title": "ML from Scratch",
-      "label": "ML fundamentals",
-      "description": "14 classic ML algorithms in pure NumPy, from linear regression to DBSCAN, with interactive 3D visualisations.",
-      "stack": ["NumPy", "Plotly", "Streamlit"],
-      "demo": "https://ml-algorithms-from-scratch-lnvbwmqcoy5ds2vzmrbf7w.streamlit.app/"
     }
   ],
   "min_stars_to_show": 1,
