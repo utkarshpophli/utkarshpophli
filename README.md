@@ -44,7 +44,7 @@
 ## Experience
 
 <p align="center">
-  <img src="assets/experience.svg" width="100%" alt="Fractal Analytics / Siemens R&amp;D / Green Rider Technology / MITS Gwalior">
+  <img src="assets/experience.svg" width="100%" alt="Fractal Analytics / Ethara AI / Siemens R&amp;D / MITS Gwalior">
 </p>
 
 ---
