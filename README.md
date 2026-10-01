@@ -13,7 +13,7 @@
 ## About me
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="Working on: GenAI and agentic AI solutions as a Data Scientist at Fractal / Collaborate: Open-source AI agents and LLM projects / Learning: Advanced LLM evaluation and fine-tuning / Ask me about: LangGraph, multi-agent systems, LLMOps / Fun fact: GLOW started as a weekend experiment">
+  <img src="assets/about.svg" width="100%" alt="Working on: GenAI and agentic AI solutions as a Data Scientist at Fractal / Collaborate: Open-source AI agents and LLM projects / Help wanted: Growing GLOW, my vision-based Windows agent / Learning: Advanced LLM evaluation and fine-tuning / Ask me about: LangGraph, multi-agent systems, LLMOps / Fun fact: GLOW started as a weekend experiment">
 </p>
 
 ## Featured work
@@ -33,7 +33,7 @@
 <p align="center">
   <img src="assets/recent.svg" width="100%" alt="Recently updated repositories">
 </p>
-<p align="center"><sub><a href="https://github.com/utkarshpophli/GLOW">GLOW</a> · <a href="https://github.com/utkarshpophli/gemma-finetuning-keras-lora">gemma-finetuning-keras-lora</a> · <a href="https://github.com/utkarshpophli/ml-algorithms-from-scratch">ml-algorithms-from-scratch</a> · <a href="https://github.com/utkarshpophli/virtual-try-on-outfit-change">virtual-try-on-outfit-change</a></sub></p>
+<p align="center"><sub><a href="https://github.com/utkarshpophli/PaperTrail">PaperTrail</a> · <a href="https://github.com/utkarshpophli/GLOW">GLOW</a> · <a href="https://github.com/utkarshpophli/utkarshpophli.github.io">utkarshpophli.github.io</a> · <a href="https://github.com/utkarshpophli/ml-algorithms-from-scratch">ml-algorithms-from-scratch</a></sub></p>
 
 ## Stack
 
