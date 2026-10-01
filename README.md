@@ -13,7 +13,7 @@
 ## About me
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="Working on: GenAI and agentic AI solutions as a Data Scientist at Fractal / Collaborate: Open-source AI agents and LLM projects / Help wanted: Growing GLOW, my vision-based Windows agent / Learning: Advanced LLM evaluation and fine-tuning / Ask me about: LangGraph, multi-agent systems, LLMOps / Fun fact: GLOW started as a weekend experiment">
+  <img src="assets/about.svg" width="100%" alt="Working on: GenAI and agentic AI solutions as a Data Scientist at Fractal / Collaborate: Open-source AI agents and LLM projects / Learning: Advanced LLM evaluation and fine-tuning / Ask me about: LangGraph, multi-agent systems, LLMOps">
 </p>
 
 ## Featured work
