@@ -33,7 +33,7 @@
 <p align="center">
   <img src="assets/recent.svg" width="100%" alt="Recently updated repositories">
 </p>
-<p align="center"><sub><a href="https://github.com/utkarshpophli/PaperTrail">PaperTrail</a> · <a href="https://github.com/utkarshpophli/GLOW">GLOW</a> · <a href="https://github.com/utkarshpophli/utkarshpophli.github.io">utkarshpophli.github.io</a> · <a href="https://github.com/utkarshpophli/ml-algorithms-from-scratch">ml-algorithms-from-scratch</a></sub></p>
+<p align="center"><sub><a href="https://github.com/utkarshpophli/utkarshpophli.github.io">utkarshpophli.github.io</a> · <a href="https://github.com/utkarshpophli/PaperTrail">PaperTrail</a> · <a href="https://github.com/utkarshpophli/GLOW">GLOW</a> · <a href="https://github.com/utkarshpophli/ml-algorithms-from-scratch">ml-algorithms-from-scratch</a></sub></p>
 
 ## Stack
 
